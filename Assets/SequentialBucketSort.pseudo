@@ -1,0 +1,25 @@
+arr - array to sort
+comparer - instance for comparing objects
+bucketsCount - quantity of buckets
+
+<generic T>
+function sequentialBucketSort<T>(arr: list<T>, comparer: Comparer<T>, bucketsCount: integer):
+    buckets: list<T> = new array of empty buckets
+    maxElement: T = max element in arr
+    minElement: T = min element in arr
+    bucketStep: integer = maxOf(maxElement - minElement) / bucketsCount, 1) - bucket step, if step is less then 1, then step = 1
+    
+    initialize array of buckets with empty buckets
+    
+    for each value in arr:
+        bucketIndex: integer = minOf((value - minElement) / bucketStep), bucketsCount - 1) - get index of bucket for each element
+        buckets.addAt(bucketIndex, value) - add each item in a specific bucket to the bucket array by {bucketIndex}
+       
+    for each bucket in buckets:
+        bubbleSort.sort(bucket, comparer) - sort each bucket with a different sorting algorithm by given comparer
+        
+    extractedElements: list<T> = extract(buckets) - merge all elements from buckets to an array
+    
+    return extractedItems
+    
+    

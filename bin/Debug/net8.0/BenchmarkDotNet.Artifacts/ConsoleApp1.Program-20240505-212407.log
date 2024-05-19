@@ -1,0 +1,11 @@
+// Validating benchmarks:
+// Benchmark Program.ParallelBucketSort: DefaultJob
+//    * Benchmarked method `ParallelBucketSort` is static. Benchmarks MUST be instance methods, static methods are not supported.
+
+// Benchmark Program.SequentialSort: DefaultJob
+//    * Benchmarked method `SequentialSort` is static. Benchmarks MUST be instance methods, static methods are not supported.
+
+//    * Assembly ConsoleApp1 which defines benchmarks is non-optimized
+Benchmark was built without optimization enabled (most probably a DEBUG configuration). Please, build it in RELEASE.
+If you want to debug the benchmarks, please see https://benchmarkdotnet.org/articles/guides/troubleshooting.html#debugging-benchmarks.
+

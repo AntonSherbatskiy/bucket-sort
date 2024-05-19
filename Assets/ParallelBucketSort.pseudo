@@ -1,0 +1,50 @@
+<generic T>
+function parallelBucketSort(arr: list<T>, comparer: Comparer<T>, bucketsCount: integer, threads: integer):
+    maxElement: T = max element in arr
+    minElement: T = min element in arr
+    buckets: list of arrays<T> = createBuckets(arr, maxElement, minElement, bucketsCount, threads)
+    threadStep: integer = max of (1, length of buckets / ThreadsCount);
+    start: integer = 0
+    
+    while start < length of buckets:
+        end: integer = min of (start + threadStep, length of buckets)
+        add new task in array of tasks -> task {
+            for i = start; while i < end; i++:
+                sort(buckets[j], comparer) - sort each bucket with another sorting algorithm
+        }
+        
+        start += threadStep
+        
+    wait while all tasks complete
+    
+    extract all items from buckets
+    
+    return extracted items as array
+    
+<generic T>
+function createBuckets(arr: list<T>, maxElement: T, minElement: T, bucketsCount: integer, threads: integer):
+    tasks: list<Task> = new array of tasks
+    buckets: array of synchronized collections<T> = new array of sync collections
+    bucketStep: integer = max of ((maxElement - minElement) / bucketsCount, 1)
+    threadStep: integer = max of (1, length of arr / threads)
+    start: integer = 0
+    
+    for each bucket in buckets:
+        bucket = new empty bucket
+    
+    while start < arr.length:
+        end: integer = min of (start + threadStep, length of arr)
+        start1: integer = start
+        end1: integer = end
+        
+        add new task in array of tasks -> task {
+            for i = start; while i < end1; i++:
+                bucketIndex: int = min of ((arr[i] - _minValue) / bucketStep, BucketsCount - 1);
+                add arr[i] to concrete bucket by bucketIndex
+        }
+        
+        start += threadStep
+        
+    wait while all tasks complete
+    
+    return buckets

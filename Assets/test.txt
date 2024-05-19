@@ -1,0 +1,187 @@
+/Users/anton/RiderProjects/ConsoleApp1/ConsoleApp1/bin/Release/net8.0/ConsoleApp1
+Warmup start
+Warmup end
+SortingType: Sequential, ElapsedMilliseconds: 0, ArraySize: 10, IsSortedProperly: True, BucketsCount: 100
+SortingType: Parallel, ElapsedMilliseconds: 2, ArraySize: 10, IsSortedProperly: True, BucketsCount: 100, ThreadsCount: 4, Speedup: 0
+SortingType: Sequential, ElapsedMilliseconds: 0, ArraySize: 10, IsSortedProperly: True, BucketsCount: 500
+SortingType: Parallel, ElapsedMilliseconds: 0, ArraySize: 10, IsSortedProperly: True, BucketsCount: 500, ThreadsCount: 4, Speedup: 0
+SortingType: Sequential, ElapsedMilliseconds: 0, ArraySize: 100, IsSortedProperly: True, BucketsCount: 100
+SortingType: Parallel, ElapsedMilliseconds: 1, ArraySize: 100, IsSortedProperly: True, BucketsCount: 100, ThreadsCount: 4, Speedup: 0
+SortingType: Sequential, ElapsedMilliseconds: 0, ArraySize: 100, IsSortedProperly: True, BucketsCount: 500
+SortingType: Parallel, ElapsedMilliseconds: 0, ArraySize: 100, IsSortedProperly: True, BucketsCount: 500, ThreadsCount: 4, Speedup: 0
+SortingType: Sequential, ElapsedMilliseconds: 0, ArraySize: 1000, IsSortedProperly: True, BucketsCount: 100
+SortingType: Parallel, ElapsedMilliseconds: 0, ArraySize: 1000, IsSortedProperly: True, BucketsCount: 100, ThreadsCount: 4, Speedup: 0
+SortingType: Sequential, ElapsedMilliseconds: 0, ArraySize: 1000, IsSortedProperly: True, BucketsCount: 500
+SortingType: Parallel, ElapsedMilliseconds: 0, ArraySize: 1000, IsSortedProperly: True, BucketsCount: 500, ThreadsCount: 4, Speedup: 0
+SortingType: Sequential, ElapsedMilliseconds: 5, ArraySize: 10000, IsSortedProperly: True, BucketsCount: 100
+SortingType: Parallel, ElapsedMilliseconds: 3, ArraySize: 10000, IsSortedProperly: True, BucketsCount: 100, ThreadsCount: 4, Speedup: 1,6666666666666667
+SortingType: Sequential, ElapsedMilliseconds: 4, ArraySize: 10000, IsSortedProperly: True, BucketsCount: 500
+SortingType: Parallel, ElapsedMilliseconds: 2, ArraySize: 10000, IsSortedProperly: True, BucketsCount: 500, ThreadsCount: 4, Speedup: 2
+SortingType: Sequential, ElapsedMilliseconds: 134, ArraySize: 100000, IsSortedProperly: True, BucketsCount: 100
+SortingType: Parallel, ElapsedMilliseconds: 33, ArraySize: 100000, IsSortedProperly: True, BucketsCount: 100, ThreadsCount: 4, Speedup: 4,0606060606060606
+SortingType: Sequential, ElapsedMilliseconds: 131, ArraySize: 100000, IsSortedProperly: True, BucketsCount: 500
+SortingType: Parallel, ElapsedMilliseconds: 29, ArraySize: 100000, IsSortedProperly: True, BucketsCount: 500, ThreadsCount: 4, Speedup: 4,517241379310345
+SortingType: Sequential, ElapsedMilliseconds: 4026, ArraySize: 500000, IsSortedProperly: True, BucketsCount: 100
+SortingType: Parallel, ElapsedMilliseconds: 607, ArraySize: 500000, IsSortedProperly: True, BucketsCount: 100, ThreadsCount: 4, Speedup: 6,632619439868204
+SortingType: Sequential, ElapsedMilliseconds: 4105, ArraySize: 500000, IsSortedProperly: True, BucketsCount: 500
+SortingType: Parallel, ElapsedMilliseconds: 620, ArraySize: 500000, IsSortedProperly: True, BucketsCount: 500, ThreadsCount: 4, Speedup: 6,620967741935484
+SortingType: Sequential, ElapsedMilliseconds: 23154, ArraySize: 1000000, IsSortedProperly: True, BucketsCount: 100
+SortingType: Parallel, ElapsedMilliseconds: 3303, ArraySize: 1000000, IsSortedProperly: True, BucketsCount: 100, ThreadsCount: 4, Speedup: 7,009990917347865
+SortingType: Sequential, ElapsedMilliseconds: 23358, ArraySize: 1000000, IsSortedProperly: True, BucketsCount: 500
+SortingType: Parallel, ElapsedMilliseconds: 3753, ArraySize: 1000000, IsSortedProperly: True, BucketsCount: 500, ThreadsCount: 4, Speedup: 6,2238209432454035
+SortingType: Sequential, ElapsedMilliseconds: 100702, ArraySize: 2000000, IsSortedProperly: True, BucketsCount: 100
+SortingType: Parallel, ElapsedMilliseconds: 15933, ArraySize: 2000000, IsSortedProperly: True, BucketsCount: 100, ThreadsCount: 4, Speedup: 6,320341429737024
+SortingType: Sequential, ElapsedMilliseconds: 101217, ArraySize: 2000000, IsSortedProperly: True, BucketsCount: 500
+SortingType: Parallel, ElapsedMilliseconds: 14855, ArraySize: 2000000, IsSortedProperly: True, BucketsCount: 500, ThreadsCount: 4, Speedup: 6,813665432514305
+SortingType: Sequential, ElapsedMilliseconds: 0, ArraySize: 10, IsSortedProperly: True, BucketsCount: 100
+SortingType: Parallel, ElapsedMilliseconds: 1, ArraySize: 10, IsSortedProperly: True, BucketsCount: 100, ThreadsCount: 8, Speedup: 0
+SortingType: Sequential, ElapsedMilliseconds: 0, ArraySize: 10, IsSortedProperly: True, BucketsCount: 500
+SortingType: Parallel, ElapsedMilliseconds: 0, ArraySize: 10, IsSortedProperly: True, BucketsCount: 500, ThreadsCount: 8, Speedup: 0
+SortingType: Sequential, ElapsedMilliseconds: 0, ArraySize: 100, IsSortedProperly: True, BucketsCount: 100
+SortingType: Parallel, ElapsedMilliseconds: 0, ArraySize: 100, IsSortedProperly: True, BucketsCount: 100, ThreadsCount: 8, Speedup: 0
+SortingType: Sequential, ElapsedMilliseconds: 0, ArraySize: 100, IsSortedProperly: True, BucketsCount: 500
+SortingType: Parallel, ElapsedMilliseconds: 0, ArraySize: 100, IsSortedProperly: True, BucketsCount: 500, ThreadsCount: 8, Speedup: 0
+SortingType: Sequential, ElapsedMilliseconds: 0, ArraySize: 1000, IsSortedProperly: True, BucketsCount: 100
+SortingType: Parallel, ElapsedMilliseconds: 1, ArraySize: 1000, IsSortedProperly: True, BucketsCount: 100, ThreadsCount: 8, Speedup: 0
+SortingType: Sequential, ElapsedMilliseconds: 0, ArraySize: 1000, IsSortedProperly: True, BucketsCount: 500
+SortingType: Parallel, ElapsedMilliseconds: 1, ArraySize: 1000, IsSortedProperly: True, BucketsCount: 500, ThreadsCount: 8, Speedup: 0
+SortingType: Sequential, ElapsedMilliseconds: 2, ArraySize: 10000, IsSortedProperly: True, BucketsCount: 100
+SortingType: Parallel, ElapsedMilliseconds: 1, ArraySize: 10000, IsSortedProperly: True, BucketsCount: 100, ThreadsCount: 8, Speedup: 2
+SortingType: Sequential, ElapsedMilliseconds: 1, ArraySize: 10000, IsSortedProperly: True, BucketsCount: 500
+SortingType: Parallel, ElapsedMilliseconds: 2, ArraySize: 10000, IsSortedProperly: True, BucketsCount: 500, ThreadsCount: 8, Speedup: 0,5
+SortingType: Sequential, ElapsedMilliseconds: 134, ArraySize: 100000, IsSortedProperly: True, BucketsCount: 100
+SortingType: Parallel, ElapsedMilliseconds: 27, ArraySize: 100000, IsSortedProperly: True, BucketsCount: 100, ThreadsCount: 8, Speedup: 4,962962962962963
+SortingType: Sequential, ElapsedMilliseconds: 132, ArraySize: 100000, IsSortedProperly: True, BucketsCount: 500
+SortingType: Parallel, ElapsedMilliseconds: 28, ArraySize: 100000, IsSortedProperly: True, BucketsCount: 500, ThreadsCount: 8, Speedup: 4,714285714285714
+SortingType: Sequential, ElapsedMilliseconds: 4024, ArraySize: 500000, IsSortedProperly: True, BucketsCount: 100
+SortingType: Parallel, ElapsedMilliseconds: 578, ArraySize: 500000, IsSortedProperly: True, BucketsCount: 100, ThreadsCount: 8, Speedup: 6,961937716262976
+SortingType: Sequential, ElapsedMilliseconds: 4002, ArraySize: 500000, IsSortedProperly: True, BucketsCount: 500
+SortingType: Parallel, ElapsedMilliseconds: 659, ArraySize: 500000, IsSortedProperly: True, BucketsCount: 500, ThreadsCount: 8, Speedup: 6,072837632776935
+SortingType: Sequential, ElapsedMilliseconds: 23230, ArraySize: 1000000, IsSortedProperly: True, BucketsCount: 100
+SortingType: Parallel, ElapsedMilliseconds: 3105, ArraySize: 1000000, IsSortedProperly: True, BucketsCount: 100, ThreadsCount: 8, Speedup: 7,481481481481482
+SortingType: Sequential, ElapsedMilliseconds: 23113, ArraySize: 1000000, IsSortedProperly: True, BucketsCount: 500
+SortingType: Parallel, ElapsedMilliseconds: 3227, ArraySize: 1000000, IsSortedProperly: True, BucketsCount: 500, ThreadsCount: 8, Speedup: 7,162379919429811
+SortingType: Sequential, ElapsedMilliseconds: 101429, ArraySize: 2000000, IsSortedProperly: True, BucketsCount: 100
+SortingType: Parallel, ElapsedMilliseconds: 14573, ArraySize: 2000000, IsSortedProperly: True, BucketsCount: 100, ThreadsCount: 8, Speedup: 6,960063130446716
+SortingType: Sequential, ElapsedMilliseconds: 100531, ArraySize: 2000000, IsSortedProperly: True, BucketsCount: 500
+SortingType: Parallel, ElapsedMilliseconds: 13948, ArraySize: 2000000, IsSortedProperly: True, BucketsCount: 500, ThreadsCount: 8, Speedup: 7,207556638944651
+SortingType: Sequential, ElapsedMilliseconds: 0, ArraySize: 10, IsSortedProperly: True, BucketsCount: 100
+SortingType: Parallel, ElapsedMilliseconds: 3, ArraySize: 10, IsSortedProperly: True, BucketsCount: 100, ThreadsCount: 10, Speedup: 0
+SortingType: Sequential, ElapsedMilliseconds: 0, ArraySize: 10, IsSortedProperly: True, BucketsCount: 500
+SortingType: Parallel, ElapsedMilliseconds: 0, ArraySize: 10, IsSortedProperly: True, BucketsCount: 500, ThreadsCount: 10, Speedup: 0
+SortingType: Sequential, ElapsedMilliseconds: 0, ArraySize: 100, IsSortedProperly: True, BucketsCount: 100
+SortingType: Parallel, ElapsedMilliseconds: 0, ArraySize: 100, IsSortedProperly: True, BucketsCount: 100, ThreadsCount: 10, Speedup: 0
+SortingType: Sequential, ElapsedMilliseconds: 0, ArraySize: 100, IsSortedProperly: True, BucketsCount: 500
+SortingType: Parallel, ElapsedMilliseconds: 0, ArraySize: 100, IsSortedProperly: True, BucketsCount: 500, ThreadsCount: 10, Speedup: 0
+SortingType: Sequential, ElapsedMilliseconds: 0, ArraySize: 1000, IsSortedProperly: True, BucketsCount: 100
+SortingType: Parallel, ElapsedMilliseconds: 0, ArraySize: 1000, IsSortedProperly: True, BucketsCount: 100, ThreadsCount: 10, Speedup: 0
+SortingType: Sequential, ElapsedMilliseconds: 0, ArraySize: 1000, IsSortedProperly: True, BucketsCount: 500
+SortingType: Parallel, ElapsedMilliseconds: 1, ArraySize: 1000, IsSortedProperly: True, BucketsCount: 500, ThreadsCount: 10, Speedup: 0
+SortingType: Sequential, ElapsedMilliseconds: 3, ArraySize: 10000, IsSortedProperly: True, BucketsCount: 100
+SortingType: Parallel, ElapsedMilliseconds: 1, ArraySize: 10000, IsSortedProperly: True, BucketsCount: 100, ThreadsCount: 10, Speedup: 3
+SortingType: Sequential, ElapsedMilliseconds: 1, ArraySize: 10000, IsSortedProperly: True, BucketsCount: 500
+SortingType: Parallel, ElapsedMilliseconds: 1, ArraySize: 10000, IsSortedProperly: True, BucketsCount: 500, ThreadsCount: 10, Speedup: 1
+SortingType: Sequential, ElapsedMilliseconds: 133, ArraySize: 100000, IsSortedProperly: True, BucketsCount: 100
+SortingType: Parallel, ElapsedMilliseconds: 20, ArraySize: 100000, IsSortedProperly: True, BucketsCount: 100, ThreadsCount: 10, Speedup: 6,65
+SortingType: Sequential, ElapsedMilliseconds: 131, ArraySize: 100000, IsSortedProperly: True, BucketsCount: 500
+SortingType: Parallel, ElapsedMilliseconds: 26, ArraySize: 100000, IsSortedProperly: True, BucketsCount: 500, ThreadsCount: 10, Speedup: 5,038461538461538
+SortingType: Sequential, ElapsedMilliseconds: 4040, ArraySize: 500000, IsSortedProperly: True, BucketsCount: 100
+SortingType: Parallel, ElapsedMilliseconds: 522, ArraySize: 500000, IsSortedProperly: True, BucketsCount: 100, ThreadsCount: 10, Speedup: 7,739463601532567
+SortingType: Sequential, ElapsedMilliseconds: 4105, ArraySize: 500000, IsSortedProperly: True, BucketsCount: 500
+SortingType: Parallel, ElapsedMilliseconds: 542, ArraySize: 500000, IsSortedProperly: True, BucketsCount: 500, ThreadsCount: 10, Speedup: 7,57380073800738
+SortingType: Sequential, ElapsedMilliseconds: 23104, ArraySize: 1000000, IsSortedProperly: True, BucketsCount: 100
+SortingType: Parallel, ElapsedMilliseconds: 2846, ArraySize: 1000000, IsSortedProperly: True, BucketsCount: 100, ThreadsCount: 10, Speedup: 8,118060435699228
+SortingType: Sequential, ElapsedMilliseconds: 22997, ArraySize: 1000000, IsSortedProperly: True, BucketsCount: 500
+SortingType: Parallel, ElapsedMilliseconds: 3340, ArraySize: 1000000, IsSortedProperly: True, BucketsCount: 500, ThreadsCount: 10, Speedup: 6,885329341317365
+SortingType: Sequential, ElapsedMilliseconds: 101380, ArraySize: 2000000, IsSortedProperly: True, BucketsCount: 100
+SortingType: Parallel, ElapsedMilliseconds: 13757, ArraySize: 2000000, IsSortedProperly: True, BucketsCount: 100, ThreadsCount: 10, Speedup: 7,369339245475031
+SortingType: Sequential, ElapsedMilliseconds: 100418, ArraySize: 2000000, IsSortedProperly: True, BucketsCount: 500
+SortingType: Parallel, ElapsedMilliseconds: 14071, ArraySize: 2000000, IsSortedProperly: True, BucketsCount: 500, ThreadsCount: 10, Speedup: 7,13652192452562
+SortingType: Sequential, ElapsedMilliseconds: 0, ArraySize: 10, IsSortedProperly: True, BucketsCount: 100
+SortingType: Parallel, ElapsedMilliseconds: 1, ArraySize: 10, IsSortedProperly: True, BucketsCount: 100, ThreadsCount: 16, Speedup: 0
+SortingType: Sequential, ElapsedMilliseconds: 0, ArraySize: 10, IsSortedProperly: True, BucketsCount: 500
+SortingType: Parallel, ElapsedMilliseconds: 0, ArraySize: 10, IsSortedProperly: True, BucketsCount: 500, ThreadsCount: 16, Speedup: 0
+SortingType: Sequential, ElapsedMilliseconds: 0, ArraySize: 100, IsSortedProperly: True, BucketsCount: 100
+SortingType: Parallel, ElapsedMilliseconds: 0, ArraySize: 100, IsSortedProperly: True, BucketsCount: 100, ThreadsCount: 16, Speedup: 0
+SortingType: Sequential, ElapsedMilliseconds: 0, ArraySize: 100, IsSortedProperly: True, BucketsCount: 500
+SortingType: Parallel, ElapsedMilliseconds: 0, ArraySize: 100, IsSortedProperly: True, BucketsCount: 500, ThreadsCount: 16, Speedup: 0
+SortingType: Sequential, ElapsedMilliseconds: 0, ArraySize: 1000, IsSortedProperly: True, BucketsCount: 100
+SortingType: Parallel, ElapsedMilliseconds: 0, ArraySize: 1000, IsSortedProperly: True, BucketsCount: 100, ThreadsCount: 16, Speedup: 0
+SortingType: Sequential, ElapsedMilliseconds: 0, ArraySize: 1000, IsSortedProperly: True, BucketsCount: 500
+SortingType: Parallel, ElapsedMilliseconds: 0, ArraySize: 1000, IsSortedProperly: True, BucketsCount: 500, ThreadsCount: 16, Speedup: 0
+SortingType: Sequential, ElapsedMilliseconds: 2, ArraySize: 10000, IsSortedProperly: True, BucketsCount: 100
+SortingType: Parallel, ElapsedMilliseconds: 1, ArraySize: 10000, IsSortedProperly: True, BucketsCount: 100, ThreadsCount: 16, Speedup: 2
+SortingType: Sequential, ElapsedMilliseconds: 1, ArraySize: 10000, IsSortedProperly: True, BucketsCount: 500
+SortingType: Parallel, ElapsedMilliseconds: 1, ArraySize: 10000, IsSortedProperly: True, BucketsCount: 500, ThreadsCount: 16, Speedup: 1
+SortingType: Sequential, ElapsedMilliseconds: 129, ArraySize: 100000, IsSortedProperly: True, BucketsCount: 100
+SortingType: Parallel, ElapsedMilliseconds: 23, ArraySize: 100000, IsSortedProperly: True, BucketsCount: 100, ThreadsCount: 16, Speedup: 5,608695652173913
+SortingType: Sequential, ElapsedMilliseconds: 130, ArraySize: 100000, IsSortedProperly: True, BucketsCount: 500
+SortingType: Parallel, ElapsedMilliseconds: 24, ArraySize: 100000, IsSortedProperly: True, BucketsCount: 500, ThreadsCount: 16, Speedup: 5,416666666666667
+SortingType: Sequential, ElapsedMilliseconds: 3992, ArraySize: 500000, IsSortedProperly: True, BucketsCount: 100
+SortingType: Parallel, ElapsedMilliseconds: 524, ArraySize: 500000, IsSortedProperly: True, BucketsCount: 100, ThreadsCount: 16, Speedup: 7,6183206106870225
+SortingType: Sequential, ElapsedMilliseconds: 4070, ArraySize: 500000, IsSortedProperly: True, BucketsCount: 500
+SortingType: Parallel, ElapsedMilliseconds: 523, ArraySize: 500000, IsSortedProperly: True, BucketsCount: 500, ThreadsCount: 16, Speedup: 7,782026768642448
+SortingType: Sequential, ElapsedMilliseconds: 23171, ArraySize: 1000000, IsSortedProperly: True, BucketsCount: 100
+SortingType: Parallel, ElapsedMilliseconds: 2749, ArraySize: 1000000, IsSortedProperly: True, BucketsCount: 100, ThreadsCount: 16, Speedup: 8,428883230265551
+SortingType: Sequential, ElapsedMilliseconds: 23255, ArraySize: 1000000, IsSortedProperly: True, BucketsCount: 500
+SortingType: Parallel, ElapsedMilliseconds: 2830, ArraySize: 1000000, IsSortedProperly: True, BucketsCount: 500, ThreadsCount: 16, Speedup: 8,217314487632509
+SortingType: Sequential, ElapsedMilliseconds: 100794, ArraySize: 2000000, IsSortedProperly: True, BucketsCount: 100
+SortingType: Parallel, ElapsedMilliseconds: 13940, ArraySize: 2000000, IsSortedProperly: True, BucketsCount: 100, ThreadsCount: 16, Speedup: 7,2305595408895265
+SortingType: Sequential, ElapsedMilliseconds: 100128, ArraySize: 2000000, IsSortedProperly: True, BucketsCount: 500
+SortingType: Parallel, ElapsedMilliseconds: 14063, ArraySize: 2000000, IsSortedProperly: True, BucketsCount: 500, ThreadsCount: 16, Speedup: 7,119960179193629
+SortingType: Sequential, ElapsedMilliseconds: 0, ArraySize: 10, IsSortedProperly: True, BucketsCount: 100
+SortingType: Parallel, ElapsedMilliseconds: 1, ArraySize: 10, IsSortedProperly: True, BucketsCount: 100, ThreadsCount: 32, Speedup: 0
+SortingType: Sequential, ElapsedMilliseconds: 0, ArraySize: 10, IsSortedProperly: True, BucketsCount: 500
+SortingType: Parallel, ElapsedMilliseconds: 0, ArraySize: 10, IsSortedProperly: True, BucketsCount: 500, ThreadsCount: 32, Speedup: 0
+SortingType: Sequential, ElapsedMilliseconds: 0, ArraySize: 100, IsSortedProperly: True, BucketsCount: 100
+SortingType: Parallel, ElapsedMilliseconds: 0, ArraySize: 100, IsSortedProperly: True, BucketsCount: 100, ThreadsCount: 32, Speedup: 0
+SortingType: Sequential, ElapsedMilliseconds: 0, ArraySize: 100, IsSortedProperly: True, BucketsCount: 500
+SortingType: Parallel, ElapsedMilliseconds: 0, ArraySize: 100, IsSortedProperly: True, BucketsCount: 500, ThreadsCount: 32, Speedup: 0
+SortingType: Sequential, ElapsedMilliseconds: 0, ArraySize: 1000, IsSortedProperly: True, BucketsCount: 100
+SortingType: Parallel, ElapsedMilliseconds: 11, ArraySize: 1000, IsSortedProperly: True, BucketsCount: 100, ThreadsCount: 32, Speedup: 0
+SortingType: Sequential, ElapsedMilliseconds: 0, ArraySize: 1000, IsSortedProperly: True, BucketsCount: 500
+SortingType: Parallel, ElapsedMilliseconds: 0, ArraySize: 1000, IsSortedProperly: True, BucketsCount: 500, ThreadsCount: 32, Speedup: 0
+SortingType: Sequential, ElapsedMilliseconds: 1, ArraySize: 10000, IsSortedProperly: True, BucketsCount: 100
+SortingType: Parallel, ElapsedMilliseconds: 2, ArraySize: 10000, IsSortedProperly: True, BucketsCount: 100, ThreadsCount: 32, Speedup: 0,5
+SortingType: Sequential, ElapsedMilliseconds: 1, ArraySize: 10000, IsSortedProperly: True, BucketsCount: 500
+SortingType: Parallel, ElapsedMilliseconds: 1, ArraySize: 10000, IsSortedProperly: True, BucketsCount: 500, ThreadsCount: 32, Speedup: 1
+SortingType: Sequential, ElapsedMilliseconds: 129, ArraySize: 100000, IsSortedProperly: True, BucketsCount: 100
+SortingType: Parallel, ElapsedMilliseconds: 24, ArraySize: 100000, IsSortedProperly: True, BucketsCount: 100, ThreadsCount: 32, Speedup: 5,375
+SortingType: Sequential, ElapsedMilliseconds: 130, ArraySize: 100000, IsSortedProperly: True, BucketsCount: 500
+SortingType: Parallel, ElapsedMilliseconds: 22, ArraySize: 100000, IsSortedProperly: True, BucketsCount: 500, ThreadsCount: 32, Speedup: 5,909090909090909
+SortingType: Sequential, ElapsedMilliseconds: 3975, ArraySize: 500000, IsSortedProperly: True, BucketsCount: 100
+SortingType: Parallel, ElapsedMilliseconds: 508, ArraySize: 500000, IsSortedProperly: True, BucketsCount: 100, ThreadsCount: 32, Speedup: 7,824803149606299
+SortingType: Sequential, ElapsedMilliseconds: 4000, ArraySize: 500000, IsSortedProperly: True, BucketsCount: 500
+SortingType: Parallel, ElapsedMilliseconds: 514, ArraySize: 500000, IsSortedProperly: True, BucketsCount: 500, ThreadsCount: 32, Speedup: 7,782101167315175
+SortingType: Sequential, ElapsedMilliseconds: 22963, ArraySize: 1000000, IsSortedProperly: True, BucketsCount: 100
+SortingType: Parallel, ElapsedMilliseconds: 2831, ArraySize: 1000000, IsSortedProperly: True, BucketsCount: 100, ThreadsCount: 32, Speedup: 8,111268103143766
+SortingType: Sequential, ElapsedMilliseconds: 22966, ArraySize: 1000000, IsSortedProperly: True, BucketsCount: 500
+SortingType: Parallel, ElapsedMilliseconds: 2748, ArraySize: 1000000, IsSortedProperly: True, BucketsCount: 500, ThreadsCount: 32, Speedup: 8,35735080058224
+SortingType: Sequential, ElapsedMilliseconds: 99942, ArraySize: 2000000, IsSortedProperly: True, BucketsCount: 100
+SortingType: Parallel, ElapsedMilliseconds: 12382, ArraySize: 2000000, IsSortedProperly: True, BucketsCount: 100, ThreadsCount: 32, Speedup: 8,071555483766758
+SortingType: Sequential, ElapsedMilliseconds: 100137, ArraySize: 2000000, IsSortedProperly: True, BucketsCount: 500
+SortingType: Parallel, ElapsedMilliseconds: 13098, ArraySize: 2000000, IsSortedProperly: True, BucketsCount: 500, ThreadsCount: 32, Speedup: 7,6452130096197894
+
+SortingType: Parallel, ElapsedMilliseconds: 139513, ArraySize: 5000000, IsSortedProperly: True, BucketsCount: 100, ThreadsCount: 4, Speedup: 0
+SortingType: Parallel, ElapsedMilliseconds: 144906, ArraySize: 5000000, IsSortedProperly: True, BucketsCount: 500, ThreadsCount: 4, Speedup: 0
+SortingType: Parallel, ElapsedMilliseconds: 141010, ArraySize: 5000000, IsSortedProperly: True, BucketsCount: 100, ThreadsCount: 8, Speedup: 0
+SortingType: Parallel, ElapsedMilliseconds: 145829, ArraySize: 5000000, IsSortedProperly: True, BucketsCount: 500, ThreadsCount: 8, Speedup: 0
+SortingType: Parallel, ElapsedMilliseconds: 133818, ArraySize: 5000000, IsSortedProperly: True, BucketsCount: 100, ThreadsCount: 10, Speedup: 0
+SortingType: Parallel, ElapsedMilliseconds: 136064, ArraySize: 5000000, IsSortedProperly: True, BucketsCount: 500, ThreadsCount: 10, Speedup: 0
+SortingType: Parallel, ElapsedMilliseconds: 135278, ArraySize: 5000000, IsSortedProperly: True, BucketsCount: 100, ThreadsCount: 16, Speedup: 0
+SortingType: Parallel, ElapsedMilliseconds: 135437, ArraySize: 5000000, IsSortedProperly: True, BucketsCount: 500, ThreadsCount: 16, Speedup: 0
+SortingType: Parallel, ElapsedMilliseconds: 136785, ArraySize: 5000000, IsSortedProperly: True, BucketsCount: 100, ThreadsCount: 32, Speedup: 0
+SortingType: Parallel, ElapsedMilliseconds: 132947, ArraySize: 5000000, IsSortedProperly: True, BucketsCount: 500, ThreadsCount: 32, Speedup: 0
+
+
+SortingType: Sequential, ElapsedMilliseconds: 651584, ArraySize: 5000000, IsSortedProperly: , BucketsCount: 100
+SortingType: Sequential, ElapsedMilliseconds: 651584, ArraySize: 5000000, IsSortedProperly: True, BucketsCount: 100
+SortingType: Parallel, ElapsedMilliseconds: 136603, ArraySize: 5000000, IsSortedProperly: True, BucketsCount: 100, ThreadsCount: 4, Speedup: 4,769909884848795
+SortingType: Sequential, ElapsedMilliseconds: 653621, ArraySize: 5000000, IsSortedProperly: , BucketsCount: 500
+SortingType: Sequential, ElapsedMilliseconds: 653621, ArraySize: 5000000, IsSortedProperly: True, BucketsCount: 500
+SortingType: Parallel, ElapsedMilliseconds: 147377, ArraySize: 5000000, IsSortedProperly: True, BucketsCount: 500, ThreadsCount: 4, Speedup: 4,43502717520373
+SortingType: Sequential, ElapsedMilliseconds: 649887, ArraySize: 5000000, IsSortedProperly: , BucketsCount: 100
+SortingType: Sequential, ElapsedMilliseconds: 649887, ArraySize: 5000000, IsSortedProperly: True, BucketsCount: 100
+SortingType: Parallel, ElapsedMilliseconds: 134817, ArraySize: 5000000, IsSortedProperly: True, BucketsCount: 100, ThreadsCount: 8, Speedup: 4,820512249938806
+
+853948

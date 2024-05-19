@@ -1,0 +1,296 @@
+Sequential
+	Array size: 100
+		Buckets: 100
+			Elapsed milliseconds: 1
+
+			Elapsed milliseconds: 0
+
+			Elapsed milliseconds: 0
+
+		Buckets: 500
+			Elapsed milliseconds: 0
+
+			Elapsed milliseconds: 0
+
+			Elapsed milliseconds: 0
+
+	Array size: 1000
+		Buckets: 100
+			Elapsed milliseconds: 0
+
+			Elapsed milliseconds: 0
+
+			Elapsed milliseconds: 0
+
+		Buckets: 500
+			Elapsed milliseconds: 0
+
+			Elapsed milliseconds: 0
+
+			Elapsed milliseconds: 0
+
+	Array size: 10000
+		Buckets: 100
+			Elapsed milliseconds: 11
+
+			Elapsed milliseconds: 1
+
+			Elapsed milliseconds: 1
+
+		Buckets: 500
+			Elapsed milliseconds: 3
+
+			Elapsed milliseconds: 1
+
+			Elapsed milliseconds: 1
+
+	Array size: 100000
+		Buckets: 100
+			Elapsed milliseconds: 107
+
+			Elapsed milliseconds: 105
+
+			Elapsed milliseconds: 106
+
+		Buckets: 500
+			Elapsed milliseconds: 107
+
+			Elapsed milliseconds: 106
+
+			Elapsed milliseconds: 105
+
+	Array size: 500000
+		Buckets: 100
+			Elapsed milliseconds: 3053
+
+			Elapsed milliseconds: 3038
+
+			Elapsed milliseconds: 3043
+
+		Buckets: 500
+			Elapsed milliseconds: 3098
+
+			Elapsed milliseconds: 3109
+
+			Elapsed milliseconds: 3043
+
+	Array size: 1000000
+		Buckets: 100
+			Elapsed milliseconds: 17717
+
+			Elapsed milliseconds: 17622
+
+			Elapsed milliseconds: 17763
+
+		Buckets: 500
+			Elapsed milliseconds: 17711
+
+			Elapsed milliseconds: 17772
+
+			Elapsed milliseconds: 17782
+
+	Array size: 2000000
+		Buckets: 100
+			Elapsed milliseconds: 77574
+
+			Elapsed milliseconds: 77962
+
+			Elapsed milliseconds: 77976
+
+		Buckets: 500
+			Elapsed milliseconds: 77640
+
+			Elapsed milliseconds: 77833
+
+			Elapsed milliseconds: 76895
+
+Parallel
+	Array size: 100
+		Buckets: 100
+			Elapsed milliseconds: 2
+			Threads: 10
+			Speedup: 0,5
+
+			Elapsed milliseconds: 0
+			Threads: 16
+			Speedup: 0
+
+			Elapsed milliseconds: 0
+			Threads: 32
+			Speedup: 0
+
+		Buckets: 500
+			Elapsed milliseconds: 0
+			Threads: 10
+			Speedup: 0
+
+			Elapsed milliseconds: 19
+			Threads: 16
+			Speedup: 0
+
+			Elapsed milliseconds: 0
+			Threads: 32
+			Speedup: 0
+
+	Array size: 1000
+		Buckets: 100
+			Elapsed milliseconds: 0
+			Threads: 10
+			Speedup: 0
+
+			Elapsed milliseconds: 0
+			Threads: 16
+			Speedup: 0
+
+			Elapsed milliseconds: 0
+			Threads: 32
+			Speedup: 0
+
+		Buckets: 500
+			Elapsed milliseconds: 1
+			Threads: 10
+			Speedup: 0
+
+			Elapsed milliseconds: 0
+			Threads: 16
+			Speedup: 0
+
+			Elapsed milliseconds: 26
+			Threads: 32
+			Speedup: 0
+
+	Array size: 10000
+		Buckets: 100
+			Elapsed milliseconds: 3
+			Threads: 10
+			Speedup: 3,6666666666666665
+
+			Elapsed milliseconds: 0
+			Threads: 16
+			Speedup: 0
+
+			Elapsed milliseconds: 1
+			Threads: 32
+			Speedup: 1
+
+		Buckets: 500
+			Elapsed milliseconds: 1
+			Threads: 10
+			Speedup: 3
+
+			Elapsed milliseconds: 1
+			Threads: 16
+			Speedup: 1
+
+			Elapsed milliseconds: 1
+			Threads: 32
+			Speedup: 1
+
+	Array size: 100000
+		Buckets: 100
+			Elapsed milliseconds: 32
+			Threads: 10
+			Speedup: 3,34375
+
+			Elapsed milliseconds: 20
+			Threads: 16
+			Speedup: 5,25
+
+			Elapsed milliseconds: 21
+			Threads: 32
+			Speedup: 5,0476190476190474
+
+		Buckets: 500
+			Elapsed milliseconds: 25
+			Threads: 10
+			Speedup: 4,28
+
+			Elapsed milliseconds: 22
+			Threads: 16
+			Speedup: 4,818181818181818
+
+			Elapsed milliseconds: 20
+			Threads: 32
+			Speedup: 5,25
+
+	Array size: 500000
+		Buckets: 100
+			Elapsed milliseconds: 482
+			Threads: 10
+			Speedup: 6,33402489626556
+
+			Elapsed milliseconds: 448
+			Threads: 16
+			Speedup: 6,78125
+
+			Elapsed milliseconds: 410
+			Threads: 32
+			Speedup: 7,421951219512195
+
+		Buckets: 500
+			Elapsed milliseconds: 507
+			Threads: 10
+			Speedup: 6,110453648915187
+
+			Elapsed milliseconds: 404
+			Threads: 16
+			Speedup: 7,695544554455446
+
+			Elapsed milliseconds: 407
+			Threads: 32
+			Speedup: 7,476658476658477
+
+	Array size: 1000000
+		Buckets: 100
+			Elapsed milliseconds: 2453
+			Threads: 10
+			Speedup: 7,222584590297595
+
+			Elapsed milliseconds: 2292
+			Threads: 16
+			Speedup: 7,68848167539267
+
+			Elapsed milliseconds: 2442
+			Threads: 32
+			Speedup: 7,273955773955774
+
+		Buckets: 500
+			Elapsed milliseconds: 2539
+			Threads: 10
+			Speedup: 6,97558093737692
+
+			Elapsed milliseconds: 2361
+			Threads: 16
+			Speedup: 7,527318932655654
+
+			Elapsed milliseconds: 2310
+			Threads: 32
+			Speedup: 7,697835497835498
+
+	Array size: 2000000
+		Buckets: 100
+			Elapsed milliseconds: 10583
+			Threads: 10
+			Speedup: 7,330057639610696
+
+			Elapsed milliseconds: 10440
+			Threads: 16
+			Speedup: 7,467624521072797
+
+			Elapsed milliseconds: 10050
+			Threads: 32
+			Speedup: 7,758805970149254
+
+		Buckets: 500
+			Elapsed milliseconds: 10485
+			Threads: 10
+			Speedup: 7,404864091559371
+
+			Elapsed milliseconds: 10776
+			Threads: 16
+			Speedup: 7,2228099480326655
+
+			Elapsed milliseconds: 11059
+			Threads: 32
+			Speedup: 6,953160321909757
+

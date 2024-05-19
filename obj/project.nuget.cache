@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "O9mxBAvRTrrBHKKf2n/PPij8NHnEJOAVtKt5NLtEfcHC+RH/2eeqXtNtL2S5VRtuaQtnTpJJh/bd3Evys5njcQ==",
+  "success": true,
+  "projectFilePath": "/Users/anton/RiderProjects/ConsoleApp1/ParallelBucketSort/ParallelBucketSort.csproj",
+  "expectedPackageFiles": [
+    "/Users/anton/.nuget/packages/bogus/35.5.1/bogus.35.5.1.nupkg.sha512"
+  ],
+  "logs": []
+}
